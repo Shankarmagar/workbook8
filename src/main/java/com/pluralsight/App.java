@@ -44,7 +44,7 @@ public class App {
 
 
 
-
+ //From exercise 2
 //        try (BasicDataSource dataSource = new BasicDataSource()) {
 //            dataSource.setUrl("jdbc:mysql://localhost:3306/sakila");
 //            dataSource.setUsername("root");
